@@ -2,3 +2,4 @@ test git command~
 test2
 test1
 clone
+commit one
