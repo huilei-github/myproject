@@ -4,3 +4,4 @@ test1
 clone
 commit one
 commit two
+commit 3
