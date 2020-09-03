@@ -1,2 +1,3 @@
 git test
 slave1
+merge
